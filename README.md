@@ -1,7 +1,7 @@
-# Online_Movie_Ticket_Booking_System
+# CineReserve
 Tech Stack : MySQL, Express, React JS, Node JS
 
-Online Movie Ticket Booking System is a web application, it manages all the information about Movies, Bookings, Customers, Seating Arrangements, Shows and Snacks. The purpose of the project is to build an application program to reduce the manual work for managing Movie, Ticket, Booking, Customer and etc. It tracks all the details about the Customer, Show Timing, and Multi-Screen. Also this project facilitates customer to select their suitable available show time, select their favorite seats also order their favorite snacks. 
+CineReserve is a web application, it manages all the information about Movies, Bookings, Customers, Seating Arrangements, Shows and Snacks. The purpose of the project is to build an application program to reduce the manual work for managing Movie, Ticket, Booking, Customer and etc. It tracks all the details about the Customer, Show Timing, and Multi-Screen. Also this project facilitates customer to select their suitable available show time, select their favorite seats also order their favorite snacks. 
 This project provides feature rich Admin Panel which facilitates admin with functionalities like Movies management, Bookings Management, Theater Screen Management, Collections Management. This informations helps theater admin to take analysis on the earning.
 
 # DFD Diagram
